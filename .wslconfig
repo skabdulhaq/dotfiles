@@ -1,1 +1,5 @@
-
+[wsl2]
+memory=8GB
+swapFile=S:\\wsl\\kali-linux-swap.vhdx
+networkingMode=mirrored
+firewall=false
